@@ -1,5 +1,5 @@
-streamlit==1.35.0
+streamlit>=1.35.0
 pandas
-serpapi
+serpapi>=0.1.5
 openpyxl
 xlsxwriter
